@@ -9,4 +9,4 @@
 ### Example :
 
 `python autodrop_multi.py -v "cool_video.mp4"`
-
+(works best in python IDLE)
