@@ -1,6 +1,12 @@
-# Utkranti4.0_Team_Runtime_Matrix
+# Autodrop v0.2
 
-There are some micro-organisms that exhibit characteristics of both plants
-and animals.  When exposed to light they undergo photosynthesis; and when
-the lights go out, they turn into animals.  But then again, don't we all ?
+//⚠ Under Construction ⚠\\
+
+## How to use : 
+1)run `optimiso fasta.py`
+2)use `-v` flag to enter the path to the video stream / file 
+
+### Example :
+
+`python optimiso fasta.py -v "cool_video.mp4"`
 
