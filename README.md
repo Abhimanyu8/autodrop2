@@ -4,6 +4,7 @@
 
 ## How to use : 
 1)run `autodrop_multi.py`
+
 2)use `-v` flag to enter the path to the video stream / file 
 
 ### Example :
